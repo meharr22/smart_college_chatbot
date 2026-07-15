@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+desktop.ini
+Thumbs.db
+
+parallel_reducers.py
+sequential_base.py
+states.py
