@@ -128,3 +128,73 @@ agentic_ai/
 ├── .env.example
 ├── .gitignore
 └── README.md
+```
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/meharr22/smart_college_chatbot.git
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+For Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+For macOS/Linux:
+
+```bash
+source venv/bin/activate
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Configure Environment Variables
+
+Create a `.env` file in the root directory of the project.
+
+```env
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+### 6. Run the Application
+
+```bash
+python -m streamlit run app.py
+```
+
+The College Assistant will launch in your browser.
+
+---
+
+## Use Cases
+
+The Agentic College Assistant can help students quickly access information from institutional documents without manually searching through lengthy PDFs.
+
+### Academic Policy Assistance
+
+### Fee and Financial Information
+
+### Programme-Specific Assistance
+
+### General Student Assistance
+
+### Potential Institutional Use
+
+## Author
+
+### Mehar Arora
