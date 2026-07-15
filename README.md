@@ -4,6 +4,8 @@ An intelligent AI-powered college assistant built using LangGraph, Retrieval-Aug
 
 The system automatically classifies student queries and conditionally routes them to the appropriate knowledge source for accurate and context-aware responses.
 
+## Live Demo
+[Launch Chatbot](https://smartcollegechatbot-scc.streamlit.app/)
 ## Overview
 
 College students frequently need information related to academic policies, attendance requirements, examinations, fee structures, scholarships, and general campus queries.
