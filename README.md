@@ -183,17 +183,11 @@ The College Assistant will launch in your browser.
 
 ## Use Cases
 
-The Agentic College Assistant can help students quickly access information from institutional documents without manually searching through lengthy PDFs.
-
-### Academic Policy Assistance
-
-### Fee and Financial Information
-
-### Programme-Specific Assistance
-
-### General Student Assistance
-
-### Potential Institutional Use
+- Academic Policy Assistance
+- Fee and Financial Information
+- Programme-Specific Assistance
+- General Student Assistance
+- Potential Institutional Use
 
 ## Author
 
